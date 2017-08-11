@@ -19,7 +19,7 @@ export default class CookieHelper {
     }
 
     /**
-     * Read cookie with a specific name.
+     * Get cookie value.
      * @param name Name of the cookie to read.
      */
     static read(name: string) {
@@ -42,7 +42,7 @@ export default class CookieHelper {
     }
 
     /**
-     * Erase specific cookie.
+     * Remove a cookie.
      * @param name Name of the cookie to remove.
      */
     static erase(name: string) {
