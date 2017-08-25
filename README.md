@@ -3,6 +3,10 @@
 
 ## Usage
 
+Install via NPM:
+
+`npm install cookie-helper --save`
+
 Import the CookieHelper:
 
 `import CookieHelper from 'cookie-helper';`
