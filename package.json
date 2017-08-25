@@ -1,0 +1,15 @@
+{
+  "name": "cookie-helper",
+  "author": "Adam Lindqvist",
+  "version": "1.0.0",
+  "main": "./dist/CookieHelper.js",
+  "scripts": {
+    "run": "tsc -p ./ --outDir dist/",
+    "prepublishOnly": "tsc -p ./ --outDir dist/"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.31",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.4.0"
+  }
+}
