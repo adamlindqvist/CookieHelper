@@ -24,3 +24,5 @@ Read cookie
 Erase cookie
 
 `CookieHelper.erase('cookie-name';`
+
+&copy; Adam Lindqvist 2017
