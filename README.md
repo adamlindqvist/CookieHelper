@@ -1,11 +1,13 @@
 # CookieHelper
 
-
-## Usage
+## Install
 
 Install via NPM:
 
 `npm install cookie-helper --save`
+
+## Usage
+
 
 Import the CookieHelper:
 
