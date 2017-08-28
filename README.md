@@ -19,10 +19,10 @@ Create cookie
 
 Read cookie
 
-`let cookieValue = CookieHelper.read('cookie-name';`
+`let cookieValue = CookieHelper.read('cookie-name');`
 
 Erase cookie
 
-`CookieHelper.erase('cookie-name';`
+`CookieHelper.erase('cookie-name');`
 
 &copy; Adam Lindqvist 2017
